@@ -1,0 +1,1 @@
+ ![Diagrama](/images/diagrama.png)
